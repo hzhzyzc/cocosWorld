@@ -1,0 +1,14 @@
+﻿  mainScene.cpp
+..\Classes\mainScene.cpp(28,25): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(29,26): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(37,54): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(46,24): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(47,25): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(55,55): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(81,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+..\Classes\mainScene.cpp(137,23): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(154,22): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(166,21): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(187,28): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\mainScene.cpp(257,136): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  cocosWorld.vcxproj -> C:\Users\73535\Desktop\cocosWorld\proj.win32\bin\cocosWorld\Debug\cocosWorld.exe

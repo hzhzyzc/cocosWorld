@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\73535\Desktop\cocosWorld\proj.win32\CMakeFiles\6d46f9a376c9cbdc2ebbc2b712c1331a\SYNC_RESOURCE-cocosWorld.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\73535\Desktop\cocosWorld\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\73535\Desktop\cocosWorld\proj.win32\CMakeFiles\SYNC_RESOURCE-cocosWorld" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EB861706-2228-3BFC-B36C-101D6C19DBBA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

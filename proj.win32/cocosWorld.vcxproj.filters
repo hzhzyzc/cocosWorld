@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\73535\Desktop\cocosWorld\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\73535\Desktop\cocosWorld\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\73535\Desktop\cocosWorld\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\73535\Desktop\cocosWorld\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BeginGame.cpp">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\openingShowLayer.cpp">
+      <Filter>Source Files\Classes\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\walkingCoco.cpp">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Interface.cpp">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\mainScene.cpp">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\continueLayer.cpp">
+      <Filter>Source Files\Classes\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\textBox.cpp">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gobang.cpp">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\buttonWithText.cpp">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GobangController.cpp">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\chessBoard.cpp">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\chessPiece.cpp">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\73535\Desktop\cocosWorld\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BeginGame.h">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\openingShowLayer.h">
+      <Filter>Source Files\Classes\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\walkingCoco.h">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Interface.h">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\mainScene.h">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\continueLayer.h">
+      <Filter>Source Files\Classes\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\textBox.h">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gobang.h">
+      <Filter>Source Files\Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\buttonWithText.h">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GobangController.h">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\chessBoard.h">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\chessPiece.h">
+      <Filter>Source Files\Classes\element</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\73535\Desktop\cocosWorld\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\73535\Desktop\cocosWorld\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{23978D02-3D33-347F-A773-1920C8370743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{E072A231-2C2D-3695-82F6-36D47B002529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{4AC8CF48-5E68-3243-949A-FB8926D0C616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0B2F793A-0873-33E4-8A3A-FCD7D77749B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{E9DD1325-16F7-361A-9941-7C8808736A11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{A3E08A5B-BB54-3920-A866-465BF2D7CE31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\scene">
+      <UniqueIdentifier>{960fe70a-1641-4899-a83d-676c8e7a1a64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\Layer">
+      <UniqueIdentifier>{e2eeb78f-8c47-406f-a8a7-4b0df664e0d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\element">
+      <UniqueIdentifier>{b36f6e99-c02f-410c-b238-2bae130a22b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

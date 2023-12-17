@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\73535\Desktop\cocosWorld\cocos2d\external\clipper\clipper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\73535\Desktop\cocosWorld\cocos2d\external\clipper\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0B2F793A-0873-33E4-8A3A-FCD7D77749B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
